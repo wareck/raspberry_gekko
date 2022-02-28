@@ -1,4 +1,4 @@
-Download "Raspberry Pi OS with desktop" image
+Download "Raspberry Pi OS with desktop" image (https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-32-bit)
 
 Burn the sdcard
 
@@ -6,7 +6,7 @@ If you plan to use a keyboard and a mouse => install sdcard in raspberry and sta
 
 Follow the nexts steps otherwise go to the end of this guide (headless use)
 
-After boot, configure Raspbian
+After boot, configure Raspbian :
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View2.png">
@@ -68,3 +68,6 @@ To connect raspberry with VNC :
 
 Use the raspberry IP and add ":1" at the end
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View8.png">
+</p>
