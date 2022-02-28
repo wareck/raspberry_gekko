@@ -115,14 +115,14 @@ cat <<'EOF'>> ~/.cgminer/cgminer.conf
 {
 "pools" : [
         {
-                "url" : "stratum+tcp://192.168.1.68:3333",
-                "user" : "3Bxvpu92KbNvpTbp8iaUYQjd52c45qequt",
+                "url" : "stratum+tcp://eu.stratum.slushpool.com:3333",
+                "user" : "wareck.gekko",
                 "pass" : "x"
         },
         {
-                "url" : "stratum+tcp://pool.solopools.net:3341",
-                "user" : "etit1qhh3332g9vqpvpkmnh47lu3wf46rs4n4c2sukhv",
-                "pass" : "c=ETIT"
+                "url" : "stratum+tcp://sha256.eu.mine.zergpool.com:3333",
+                "user" : "14KnPuvX1xNBQ4qWmcqUZwYbsbtDx9tTXB",
+                "pass" : "c=BTC,mc=BCA/BCH/CHTA/DANE/DGB/DVT/FCH/LCC/PPC/PYRK/SHND/TIT/XEC/XRG"
         }
 ]
 ,
