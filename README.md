@@ -9,8 +9,12 @@ Follow the nexts steps otherwise go to the end of this guide (headless use)
 After boot, configure Raspbian :
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View2.png">
+<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View1.png">
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View2.png">
+</p>1
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View3.png">
@@ -21,17 +25,13 @@ After boot, configure Raspbian :
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View6.png">
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View5.png">
 </p>
 
 If you use screen/keyboard/mouse when update is finished, open a terminal :
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View7.png">
+<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View6.png">
 </p>
 
 git clone git clone https://github.com/wareck/raspberry_gekko
@@ -41,7 +41,7 @@ cd raspberry_gekko
 ./install
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View8.png">
+<img src="https://raw.githubusercontent.com/wareck/raspberry_gekko/master/docs/View7.png">
 </p>
 
 take a coffe and wait...
